@@ -1,4 +1,5 @@
 # Original de pacman.py
+<<<<<<< HEAD
 
 Este proyecto corresponde a la actividad 3. El trabajo se basó en el juego PacMan.
 
@@ -11,3 +12,6 @@ El otro objetivo fue rediseñar el tablero, modificando la amtriz que definia lo
 Tmabien se le ajusto la velocidad de movimiento de los fantasmas para darles mayor velocidad.
 
 Todo para incrementar la dificultad del juego
+=======
+se agregan caminos en  pacman.py
+>>>>>>> 3c3eaa685e303330c374e451cdfc29caa4e265b5
